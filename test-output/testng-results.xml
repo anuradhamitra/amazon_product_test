@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-12T14:30:28 IST" name="Default suite" finished-at="2024-09-12T14:31:50 IST" duration-ms="82188">
+    <groups>
+    </groups>
+    <test started-at="2024-09-12T14:30:28 IST" name="Default test" finished-at="2024-09-12T14:31:50 IST" duration-ms="82188">
+      <class name="amazon.ProductPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:amazon.ProductPage@3a52dba3]" started-at="2024-09-12T14:30:28 IST" name="setup" finished-at="2024-09-12T14:30:33 IST" duration-ms="4624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testProductPage()[pri:0, instance:amazon.ProductPage@3a52dba3]" started-at="2024-09-12T14:30:33 IST" name="testProductPage" finished-at="2024-09-12T14:31:49 IST" duration-ms="76403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductPage -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:amazon.ProductPage@3a52dba3]" started-at="2024-09-12T14:31:49 IST" name="teardown" finished-at="2024-09-12T14:31:50 IST" duration-ms="1038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- amazon.ProductPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
